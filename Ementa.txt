@@ -1,0 +1,25 @@
+Ementa:
+
+* Aspectos Filosóficos, conceitos de conhecimento e bases de conhecimento.
+
+* Introdução às representações.
+
+* Estratégias de controle.
+
+* Estratégias de pesquisa.
+
+* Mecanismo de inferência.
+
+* Deduções baseadas em regra, Planejamento Orientado a Metas.
+
+* Aplicações de entendimento.
+
+* Representação de conhecimento.
+
+* Quadros e roteiros.
+
+* Linguagens de Programação, ferramentas e Banco de dados para Inteligência Artificial.
+
+* Sistemas baseados em conhecimento.
+
+* Sistemas de robótica.
