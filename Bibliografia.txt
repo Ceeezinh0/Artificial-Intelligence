@@ -1,9 +1,0 @@
-Bibliografia:
-
-* Inteligência artificial: Uma abordagem de aprendizado de máquina Ed6 - K. Faceli, A.C.Lorena, J.Gama, T.A.d.Almeida, and A.C.P.d.L.F.d. Carvalho (2021)
-
-* Deep Learning - I.Goodfellow, Y.Bengio, and A.Courville (2016)
-
-* Inteligência Artificial Vl 1 - G.F.Luger (2013)
-
-* Inteligência Artificial: Uma abordagem moderna Vl 1 - S.Russel and P.Norvig (2022)
