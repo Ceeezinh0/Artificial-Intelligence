@@ -33,12 +33,12 @@ Repositório destinado às **atividades**, **trabalhos**, **anotações de aula*
 ---
 
 ## 📂 Estrutura do Repositório
-- `atividades/` → exercícios práticos da disciplina  
-- `trabalhos/` → projetos e trabalhos avaliativos  
-- `anotacoes/` → resumos e anotações de aula  
+- `Atividades/` → exercícios práticos da disciplina  
+- `Trabalhos/` → projetos e trabalhos avaliativos  
+- `Aulas e Anotações/` → resumos e anotações de aula  
 
 ---
 
 ## ✍️ Autor
-Cristiano Silva  
+Cristiano Marques Silva  
 Curso de Ciência da Computação — UNESP
